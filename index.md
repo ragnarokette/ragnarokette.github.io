@@ -8,9 +8,6 @@ You can find me most days at [twitch](https://www.twitch.tv/ragnarokette) but I 
 
 Link to gamestonks article will go here
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ragnarokette/ragnarokette.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
