@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Quick 'n Dirty Details
 
-You can use the [editor on GitHub](https://github.com/ragnarokette/ragnarokette.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+If you enjoy the content please consider subscribing to my Patreon. Support helps me turn my terminal habit of reading political garbage and internet subculture drama into content for you to enjoy with, hopefully, minimal loss to your own sanity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find me most days at [twitch](https://www.twitch.tv/ragnarokette) but I hate schedules so honestly it's kind of a crap shoot. Regular disclaimer that I am an idiot and you should question everything I say. I will do my best to mention any underlying assumptions, definitions or axioms when relevant to minimize bullshit but it may end up all funneled into one post that I can point to regularly. Nothing I say or do should be construed as any kind of life advice because good lord I'm a wreck, you can do better.
 
-### Markdown
+### Articles
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Link to gamestonks article will go here
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ragnarokette/ragnarokette.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feedback, hate mail and whatever can be sent to [email](ragnarokette@gmail.com) or @ragnarokette on Twitter. If you're really dumb though I'll probably use you for future content so you've been warned.
+
+So I don't forget how to make this site not look like ass [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
