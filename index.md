@@ -6,7 +6,7 @@ You can find me most days at [twitch](https://www.twitch.tv/ragnarokette) but I 
 
 ### Articles
 
-Link to gamestonks article will go here
+[The Saga of Gamestonks, Savior of the Commons](https://ragnarokette.github.io/gamestonks)
 
 
 ### Contact
