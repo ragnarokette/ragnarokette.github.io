@@ -1,6 +1,11 @@
-### The populism of gamestonks
+## The populism of gamestonks
 
-## A quick review of what happened
+### Ephemeral Internet History
 
 On January 27th a group of day traders and young financial experts on reddit successfully boiled over into mainstream attention as they made millions of dollars in profits off the back of a hedge fund. Across the internet this was heralded as the revenge of the middle class for the 2008 financial crisis and compared to the subsequent Occupy Wall Street protests. Now that the dust is settling the question remains of who came out ahead and who was stuck holding the proverbial bag.
 
+To understand the full saga first requires knowing what a short sale is. The basic premise that a short sale is a bet that a given stock will decrease in value in the future. As for the actual mechanics, it works when a firm borrows a large quantity of shares from another firm to sell immediately. This loan of shares comes with an agreement that the same number of shares need to be returned at an agreed upon time in the future, or possibly sooner if the lender decides to call the agreement off. So do this in the first place? After selling a stock, assuming it does in fact drop in share price, you buy it back at the new cheaper price and pocket the difference and then return them to the original lender while keeping the difference in price minus a cut for the lenders. With a sufficiently large initial investment (or bankroll if you perfer) this can actually generate a degree of self-fufillng prophecy. Basic laws of supply and demand mean that if a large amount of shares enter the market quickly without a matching demand for them, the price should decrease until it hits a new equilibrium. In the age of algorithmic trading this can have an almost gravitic effect as well as other traders move to follow suit.
+
+Starting sometime in 2019 reddit user DeepFuckingValue noticed that shares of stock in Gamestop were being shorted en masse, to the point that there were more shorts than actual shares in ciruclation. He reasoned that this was an opportunity to make profit of his own by buying up shares and effectively calling the bluff of the short sellers. If the price of shares did in fact increase, he had a sure group to sell to as the hedge funds bought up shares to return and cut their losses. With hindsight this may look like the work of a genius but this is a relatively common technique called "squeezing" a short sale. In fact at the time this was mostly either laughed off or ignored by other reddit users.
+
+Common expert sentiment was that Gamestop was a company going the way of the Dodo. Physical game sales 
