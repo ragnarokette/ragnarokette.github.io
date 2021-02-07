@@ -1,1 +1,1 @@
-title: "The populism of gamestonks"
+### The populism of gamestonks
